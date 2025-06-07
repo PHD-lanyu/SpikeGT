@@ -1,5 +1,5 @@
 # SpikeGT
-This repo is for source code of paper "SpikeGraphormer: A High-Performance Graph Transformer with Spiking Graph Attention". 
+This repo is for source code of paper "SpikeGT: An Efficient Graph Transformer with Spike-Empowered Graph Attention". 
 
 # A Gentle Introduction
 <div align="center">
